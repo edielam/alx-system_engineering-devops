@@ -1,2 +1,2 @@
 ### Shell scripting basics
-file 0-current-working_directory - prints the absolute of the current working directory
+1. File 0-current_working_directory - prints the absolute path of the current working directory

@@ -1,2 +1,3 @@
 ### System Engineering Devops
-This repo is system engineering devops, beginning with shell basics
+This repo is for system engineering devops.
+Beginning with shell basics
