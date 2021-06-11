@@ -1,2 +1,2 @@
 #!/bin/bash
-xdg-open Star*
+telnet towel.blinkenlights.nl
