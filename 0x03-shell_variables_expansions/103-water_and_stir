@@ -1,3 +1,2 @@
 #!/bin/bash
-ans=$(((water#$WATER)+(stir#STIR)))
-printf "%behlnort\n" $ans
+echo $(((water#$WATER)+(stir#STIR))) | printf "%behlnort\n" 
